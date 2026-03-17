@@ -1,0 +1,19 @@
+# Node modules anywhere
+node_modules/
+
+# Env files
+.env
+
+# Logs
+*.log
+
+# Build files
+dist/
+build/
+
+# OS files
+.DS_Store
+
+# Your exclusions
+structure.txt
+*.txt
